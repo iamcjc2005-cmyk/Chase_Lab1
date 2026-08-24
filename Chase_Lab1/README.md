@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Chase 
 - Tyler 
+
+## Changes Made by Chase: Added a feature greeting
